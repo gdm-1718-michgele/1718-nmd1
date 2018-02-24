@@ -1,7 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Krona+One');
+
 body{
   background: url(https://media.giphy.com/media/l3q2RJBdaqJY2SV3O/giphy.gif) no-repeat center center fixed;
   background-size: cover;
 }
 h1,h2{
   text-align: center;
+  font-family: 'Krona One', sans-serif;
+  color: #EB7F00;
+}
+button{
+  height: 50px;
+  width: 40%;
+  margin-left: 30%;
+  margin-right: 30%
 }
